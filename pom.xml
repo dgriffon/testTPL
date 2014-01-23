@@ -8,7 +8,7 @@
   </parent>
   <groupId>org.jahia.modules</groupId>
   <artifactId>aaaaa</artifactId>
-  <version>1.2</version>
+  <version>1.3-SNAPSHOT</version>
   <packaging>bundle</packaging>
   <name>aaaaa</name>
   <description>This is the custom module (aaaaa) for running on a Jahia xCM server.</description>
